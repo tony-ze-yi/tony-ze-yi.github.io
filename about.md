@@ -10,10 +10,11 @@ layout: page
 * To be filled in soon
 
 ### Skills
-###### Experienced in:
+#### Experienced in:
 * Python
 * LaTeX
-###### Proficient in:
+
+#### Proficient in:
 * Java
 
 ### Links
