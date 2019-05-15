@@ -19,4 +19,4 @@ layout: page
 
 ### Links
 * Resume: [Google Drive](https://drive.google.com/open?id=1Pt_tOxAkZa9tsMbnKLS9hTQWxp-LVXjE)
-* Unofficial Transcript: [Google Drive](https://drive.google.com/open?id=1RM9vcDiSMur6QkdIJF_x7qDzbgfIu7bt)
+* Unofficial Transcript: [Google Drive](https://drive.google.com/file/d/1ahtXczl6NqnBe1cCMaR4lE16RlaGP3FB/view?usp=sharing)
