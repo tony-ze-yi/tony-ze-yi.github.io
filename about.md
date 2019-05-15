@@ -18,5 +18,5 @@ layout: page
 * Java
 
 ### Links
-* Resume: [Google Drive](https://drive.google.com/open?id=1Pt_tOxAkZa9tsMbnKLS9hTQWxp-LVXjE)
-* Unofficial Transcript: [Google Drive](https://drive.google.com/file/d/1ahtXczl6NqnBe1cCMaR4lE16RlaGP3FB/view?usp=sharing)
+* Resume: [Google Drive](https://drive.google.com/file/d/1ahtXczl6NqnBe1cCMaR4lE16RlaGP3FB/view?usp=sharing)
+* Unofficial Transcript: [Google Drive](https://drive.google.com/file/d/1PTxAESeuDIvNo6KYR4R79C75EHlw_VQ-/view?usp=sharing)
